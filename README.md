@@ -1,4 +1,4 @@
-# financial_app_ui
+# Meditation App
 
 A new Flutter project.
 
