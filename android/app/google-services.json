@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61051680601",
+    "project_id": "meditation-3b9d2",
+    "storage_bucket": "meditation-3b9d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61051680601:android:e1e292156f3f23c2bfbe48",
+        "android_client_info": {
+          "package_name": "com.example.financial_app_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61051680601-00n40e345hu26p3ac670hi0c9gv3o9cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8sgzgg7Mfi3AbTXITTwgJpRcC8x49LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61051680601-00n40e345hu26p3ac670hi0c9gv3o9cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
